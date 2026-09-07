@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Vinay Kumar Reddy 👋
 
-<!--
-**VINAY163581/VINAY163581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud | Data | AI
 
-Here are some ideas to get you started:
+I'm a Master's student in Electrical and Computer Engineering at Concordia University, 
+with a focus on Cloud, Data Engineering, Analytics, Machine Learning, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working as a **Cloud, Data & AI Intern at PwC Canada**
+- 🎓 Master's student at **Concordia University**
+- ☁️ Working with **AWS & Microsoft Azure**
+- 📊 Interested in **Data Engineering and Data Analytics**
+- 🤖 Exploring **Machine Learning and AI Engineering**
+- 🧱 Working with **Databricks, Snowflake, Microsoft Fabric**
+- 🌱 Currently learning **Generative AI and Agentic AI**
+- 💬 Ask me about **Python, SQL, Data Engineering, Cloud, ML, or AI**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+Python | SQL | Java | C
+
+### Data
+Apache Spark | Databricks | Snowflake | Microsoft Fabric
+
+### Cloud
+AWS | Microsoft Azure
+
+### AI / ML
+Machine Learning | Deep Learning | Generative AI | AI Engineering
+
+### Tools
+Git | GitHub | Docker | Power BI
