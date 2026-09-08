@@ -26,8 +26,8 @@ Today I work at the intersection of **Cloud, Data and AI** building distributed 
 
 - 🔭 Currently building an **End-to-End Data &amp; AI Platform**, alongside **Autonomous Robotics, Drone, and Driving Systems**
 - 🌱 Deepening my expertise in **Data Engineering &amp; Analytics**, **Cloud Computing**, and **Machine Learning &amp; AI**
-- 🎓 **M.Eng, Electrical &amp; Computer Engineering** - Concordia University, Montreal *(2025 – 2027)*
-- 🎓 **B.Tech, Electronics &amp; Communication Engineering** - Sreenidhi Institute of Science and Technology *(2018 – 2022)*
+- 🎓 **M.Eng, Electrical &amp; Computer Engineering** - Concordia University, Montreal *(2025 - 2027)*
+- 🎓 **B.Tech, Electronics &amp; Communication Engineering** - Sreenidhi Institute of Science and Technology *(2018 - 2022)*
 - 📜 **3× Microsoft Certified** - Azure Fundamentals · Azure Data Fundamentals · Fabric Analytics Engineer Associate
 - 🏆 **Bronze Award**, E-NNOVATE Virtual Innovation Fair 2020 - for *CHAUSER*, a smart automation prototype
 - 📄 Published research on **facial emotion detection using CNNs** - IRJMETS, Volume 4, Issue 03 (2022)
@@ -60,6 +60,7 @@ Today I work at the intersection of **Cloud, Data and AI** building distributed 
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge)
 
@@ -69,6 +70,8 @@ Today I work at the intersection of **Cloud, Data and AI** building distributed 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1A7B34?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-0B7285?style=for-the-badge)
+![Spark MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -76,6 +79,9 @@ Today I work at the intersection of **Cloud, Data and AI** building distributed 
 
 **Databases &amp; Data Warehousing**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -99,5 +105,6 @@ Today I work at the intersection of **Cloud, Data and AI** building distributed 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
